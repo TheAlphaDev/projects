@@ -1,5 +1,4 @@
-# BlackerWumpus
+# Parthiv
 ## Description
-This is my boring personal website
-## Links
-Support - https://dsc.gg/black
+This is my personal website
+# https://blagoku.github.io/projects/home.html
