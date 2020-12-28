@@ -1,5 +1,5 @@
 # BlackerWumpus
 ## Description
-This is my personal website
+This is my boring personal website
 ## Links
 Support - https://dsc.gg/black
